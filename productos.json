@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Librera",
+        "descripcion": "Una librera de tres niveles",
+        "imagen": "images/librera.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "credenza",
+        "descripcion": "Una elegante credenza",
+        "imagen": "images/credenza.jfif"
+    },
+    {
+        "id": 6,
+        "nombre": "tocador",
+        "descripcion": "Tocador de color blanco",
+        "imagen": "images/tocador.jfif"
     }
 ]
